@@ -1,0 +1,18 @@
+application running due to some reasons system is getting hanging by killing applications.
+
+security group 
+
+
+
+server to server data copy 
+sign into console and login
+AWS into EC2-
+
+s2s copy
+--------
+
+psswd 
+
+how manyusers in 
+
+cat/etc/passwd :- to viw the how many users.
